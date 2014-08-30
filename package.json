@@ -1,0 +1,25 @@
+{
+  "name": "interleave-values",
+  "description": "Interleave two values producing one string. E.G 'abc' & '123' -> 'a1b2c3'.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Zac Barton"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zacbarton/node-interleave-values"
+  },
+  "devDependencies": {
+  	"mocha": "~1.21.4",
+  	"should": "~4.0.4"
+  },
+  "keywords": [
+  	"interleave"
+  	, "interweave"
+  	, "join"
+  	, "zip"
+  ]
+}
